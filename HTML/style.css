@@ -1,0 +1,51 @@
+h2 {
+    border: dotted 5px yellow;
+}
+
+*{
+    color: brown;
+}
+
+.super{
+    color: blue;
+}
+
+#super_id{
+    background: pink;
+}
+
+.span{
+    font-weight: 800;
+    color: blue;
+}
+
+#test{
+    background: yellow;
+    width: 80%;
+    height: 30%;
+    margin: auto;
+
+}
+
+.parent{
+    width: 50vh;
+    height: 50vw;
+    background: red;
+    margin-left: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+/* div {
+    cursor: pointer;
+}
+
+div:hover{
+    background: yellow;
+    margin: 20px;
+} */
+
+a:active {
+    color:blue;
+}
